@@ -41,7 +41,3 @@ go get
 3. Clock Out : http://127.0.0.1:3000/api/clock_out
 
 And navigate to generated server link (http://127.0.0.1:3000/api/)
-
-### Copyright
-
-...
